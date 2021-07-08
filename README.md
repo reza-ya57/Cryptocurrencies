@@ -18,18 +18,18 @@ What is th goal?
 ## Technology which is used in this project
 ### Modeling:
 #### We are using unsupervised modeling and K-Mean method to clustering and build a model.
-### Coding
+### Code Language:
 #### Python
 #### SQL
 #### 
-### Data Storage
+### Data Storage Method:
 #### PostgreSQL
-### Code Sharing and Task Management
+### Code Sharing and Task Management Tools:
 #### Github
 #### Google Colab
-### Communication
+### Team Communication Tools:
 #### Slack
-### Presentation
+### Presentation Tools:
 #### Tableau
 #### hvplot
 
