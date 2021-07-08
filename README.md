@@ -18,10 +18,10 @@ What is th goal?
 ## Tools and Technology which are used in this project
 ### Modeling:
 #### We are using unsupervised modeling and K-Mean method to clustering and build a model.
-### Code Language:
+### Coding Language:
 #### Python
 #### SQL
-#### 
+
 ### Data Storage Method:
 #### PostgreSQL
 ### Code Sharing and Task Management Tools:
