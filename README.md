@@ -1,6 +1,6 @@
 # Cryptocurrencies
 # Project Charter
-## Description
+## Project Description
 ### Spotify is a Swedish audio streaming and media services provider founded in 2006 by Daniel Ek. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. In order to this high popularity we decided to build a model to analyse user's favorite song and suggest best relevant song based on user's interest, so this can expand users play list and increase active users in spotify platform. 
 Why are we undertaking this project?
 
