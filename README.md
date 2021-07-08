@@ -15,7 +15,7 @@ What is th goal?
 ## Deliverable
 ### need to discuss in team?
 
-## Technology which is used in this project
+## Tools and Technology which are used in this project
 ### Modeling:
 #### We are using unsupervised modeling and K-Mean method to clustering and build a model.
 ### Code Language:
