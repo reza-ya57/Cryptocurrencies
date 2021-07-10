@@ -1,43 +1,13 @@
 # Cryptocurrencies
-# Project Charter
-## Project Description
-### Spotify is a Swedish audio streaming and media services provider founded in 2006 by Daniel Ek. It is the world's largest music streaming service providers, with over 356 million monthly active users, including 158 million paying subscribers, as of March 2021. In order to this high popularity we decided to build a model to analyse user's favorite song and suggest best relevant song based on the user's interest. We believe by using this model we offer new song to current user and expand user's play list eventually it can increase the number of active users in spotify platform. 
-Why are we undertaking this project?
+## Project Description:
+### In this study, we used a dataset of crypto currencies on the market and create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for any new investment.
+## Method of Analysis:
+### Since there is no known output for what we are looking for, I have decided to use unsupervised learning. To group the cryptocurrencies, I decided on a clustering algorithm and use data visualizations to share the findings.
+## Summary:
+### By study on the data I suggest to use 4 clusters for all cryptocurrencies on the trading market. 
+![3D model](https://github.com/reza-ya57/Cryptocurrencies/blob/main/Images/newplot.png)
 
+Martha is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
-## Objective
-### Design a model to review the users demography and behaviors to make a proper sugesstion and prepare relevant offer based on the user's attitude
-What is th goal?
-
-## Scope
-### In this project we are working on spotify dataset and collect the user's attribute and song attribute to run the analysis and build a model based on clustering method.
-
-## Deliverable
-### need to discuss in team?
-
-## Tools and Technology which are used in this project
-### Modeling:
-#### We are using unsupervised modeling and K-Mean method to clustering and build a model.
-### Coding Language:
-#### Python
-#### SQL
-
-### Data Storage Method:
-#### PostgreSQL
-### Code Sharing and Task Management Tools:
-#### Github
-#### Google Colab
-### Team Communication Tools:
-#### Slack
-### Presentation Tools:
-#### Tableau
-#### hvplot
-
-
-
-
-2- What is th goal?
-
-3- How would be manage the roadblocks?
-
+The data Martha will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.
 
